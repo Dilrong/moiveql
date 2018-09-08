@@ -1,0 +1,9 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "graph-ql moive api",
+  "main": "index.js",
+  "repository": "https://github.com/Dilrong/moiveql.git",
+  "author": "hakseonglee",
+  "license": "MIT"
+}
